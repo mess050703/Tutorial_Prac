@@ -1,0 +1,7 @@
+1. Open VS Code
+2. git pull
+3. Work on Python
+4. Save your files
+5. git add .
+6. git commit -m "File Name"
+7. git push
