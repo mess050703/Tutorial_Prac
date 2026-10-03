@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 1. Open VS Code
 2. git pull
 3. Work on Python
 4. Save your files
 5. git add .
 6. git commit -m "File Name"
+=======
+1. Open VS Code
+2. git pull
+3. Work on Python
+4. Save your files
+5. git add .
+6. git commit -m "File Name"
+>>>>>>> 89473c2a299e6e6b1348ad3cb0f0b3c15f145b21
 7. git push
